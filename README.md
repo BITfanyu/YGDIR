@@ -2,7 +2,7 @@
 An infrared image/video dataset for object detection, comprising 77 videos and 18,178 labeled frames captured by a high-resolution infrared camera. YGDIR covers eight object classes, including persons, cars, buses, trucks, UAVs, motorcycles, bicycles, and airplanes, in varying distances, environmental conditions, and viewpoints. This dataset offers a robust platform for multi-view tracking, attitude estimation, and the development of advanced multi-object detection algorithms. Through YOLO-based experiments, YGDIR has demonstrated its effectiveness in complex real-world scenarios, contributing valuable resources for both training and benchmarking of infrared imaging technologies. This paper presents the dataset's design, its potential for algorithm performance evaluation, and its role in furthering infrared research applications.
 
 # Download
-BaiduNetDisk link: https://pan.baidu.com/s/1xjaBlQ2uEaW2xVVVAmeqcQ?pwd=85fi
+Download from here: [BaiduNetDisk_link](https://pan.baidu.com/s/1xjaBlQ2uEaW2xVVVAmeqcQ?pwd=85fi)
 
 # Reference
 If you find this dataset useful, please consider referring to the following paper:
