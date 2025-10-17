@@ -6,7 +6,7 @@ BaiduNetDisk link: https://pan.baidu.com/s/1xjaBlQ2uEaW2xVVVAmeqcQ?pwd=85fi
 
 # Reference
 If you find this dataset useful, please consider referring to the following paper:
-'''
+```
 @inproceedings{wu2025ygdir,
   title={YGDIR: a comprehensive infrared video dataset for multiobject detection and tracking in diverse scenarios},
   author={Wu, Shujie and Yang, Sihan and Wang, Shiwei and Xu, Hong and Zhu, Youpan and Fan, Yu and Yang, Moyuan and Feng, Bing and Gao, Shuangmeng and Xu, Yixin},
@@ -16,4 +16,4 @@ If you find this dataset useful, please consider referring to the following pape
   year={2025},
   organization={SPIE}
 }
-'''
+```
